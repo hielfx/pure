@@ -1,3 +1,10 @@
+# DISCLAIMER
+This project is a fork from [sindresorhus/pure](https://github.com/sindresorhus/pure) theme.
+In this fork I changed to colours to match the followings:
+- path: 14 instead of blue
+- prompt character: ➜ in 10 instead of ❯ in magenta
+- git branch: 13 instead of 242
+
 # Pure
 
 > Pretty, minimal and fast ZSH prompt
